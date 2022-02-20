@@ -1,0 +1,3 @@
+Use o browser-sync para iniciar a aplicação.
+
+COMANDO PARA INICIAL NA PASTA DO PROJETO: "browser-sync start -s -f . --directory".
